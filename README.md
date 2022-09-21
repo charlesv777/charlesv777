@@ -2,7 +2,7 @@
 - 👀 I’m interested in data processing
 - 🌱 I’m currently learning data analysis, SQL, R and python langages
 - 💞️ I’m looking to collaborate on queries
-- 📫 How to reach me : admin@vpconsultant.org
+- 📫 How to reach me : cvignard@vpconsultant.org
 
 <!---
 charlesv777/charlesv777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
